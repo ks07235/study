@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+repositories/https%%%172.168.10.12%jspproject%myab/location=https\://172.168.10.12/jspproject/myab
+repositories/https%%%172.168.10.12%svn%jspproject%myab/location=https\://172.168.10.12/svn/jspproject/myab
+repositories/https%%%localhost%svn%jspproject%myab2/location=https\://localhost/svn/jspproject/myab2
+repositories/https%%%localhost%svn%jspproject/location=https\://localhost/svn/jspproject

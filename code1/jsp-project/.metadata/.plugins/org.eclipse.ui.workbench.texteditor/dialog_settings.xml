@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="hasShownOverlayPopupBefore" value="true"/>
+	<item key="replaceBarOpen" value="false"/>
+	<list key="searchhistory">
+		<item value="border"/>
+	</list>
+	<section name="java.lang.Class">
+		<item key="replaceBarOpen" value="true"/>
+		<item key="selection" value="datas"/>
+		<list key="findhistory">
+			<item value="pstmt"/>
+			<item value="datas"/>
+			<item value="Emp"/>
+			<item value="td"/>
+		</list>
+		<list key="replacehistory">
+			<item value="EmpTO"/>
+			<item value="th"/>
+		</list>
+	</section>
+</section>

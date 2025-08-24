@@ -1,0 +1,27 @@
+INDEX VERSION 1.134
+C:\Study\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\203170686.index
+\myab2\src\main\java
+C:\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\885356577.index
+\myab\src\main\java
+C:\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\203170686.index
+\myab2\src\main\java
+C:\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3757462632.index
+\myab\src\main\java
+C:\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3072680400.index
+\myaddrbook\src\main\java
+C:\Study\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3072680400.index
+\myaddrbook\src\main\java
+C:\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\658667111.index
+\secTeamProject\src\main\java
+C:\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3243249133.index
+\myjsp\src\main\java
+C:\Study\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\700179850.index
+\myweb\src\main\java
+C:\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\261523404.index
+\myweb\src\main\java
+C:\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3999311768.index
+\myjsp\src\main\java
+C:\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\700179850.index
+\myweb\src\main\java
+C:\Study\LX\jsp-project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\658667111.index
+\secTeamProject\src\main\java
